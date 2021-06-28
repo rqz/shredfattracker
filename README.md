@@ -1,1 +1,1 @@
-# shredfattracker
+# Shred Fat Tracker (SFT)
